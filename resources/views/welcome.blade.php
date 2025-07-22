@@ -316,7 +316,7 @@
                 <span>BINANCE</span>
             </div>
            <div class="logo-item">
-    <a href="https://www.paypal.me/ShakirN93" target="_blank">
+    <a href="https://www.paypal.me/DELAWARKHAN" target="_blank">
         <img src="{{ asset('images/payment4.png') }}" alt="PayPal">
     </a>
     <span>PAYPAL</span>
