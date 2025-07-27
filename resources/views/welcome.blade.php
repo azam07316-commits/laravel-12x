@@ -135,6 +135,7 @@
             background-color: green;
             transform: scale(1.1);
             transition: transform 0.3s, background-color 0.3s;
+            color: white;
         }
 
         .fixed-buttons {
@@ -296,7 +297,7 @@
 
         <div class="payment-logos-vertical">
             <div class="logo-item">
-    <a href="{{ asset('images/CashTag.png') }}" target="_blank">
+    <a href="{{ asset('images/Cashtag2.png') }}" target="_blank">
         <img src="{{ asset('images/payment1.png') }}" alt="Cash App">
     </a>
     <span>CASH APP</span>
